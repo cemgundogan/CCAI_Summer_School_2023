@@ -1,1 +1,2 @@
-# CCAI_Summer_School_2023
+# CCAI Summer School 2023
+Climate Change AI Summer School 2023 tutorials
